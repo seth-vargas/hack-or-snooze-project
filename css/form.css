@@ -1,0 +1,14 @@
+.story-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.isHidden {
+  display: none;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
